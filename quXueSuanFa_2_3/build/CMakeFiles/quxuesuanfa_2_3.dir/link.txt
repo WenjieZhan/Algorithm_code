@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/quxuesuanfa_2_3.dir/main.cpp.o  -o quxuesuanfa_2_3 
