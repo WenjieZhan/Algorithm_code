@@ -1,0 +1,7 @@
+/home/zwj/git/Algorithm_code/quXueSuanFa_2_4/build/CMakeFiles/install/strip.dir
+/home/zwj/git/Algorithm_code/quXueSuanFa_2_4/build/CMakeFiles/edit_cache.dir
+/home/zwj/git/Algorithm_code/quXueSuanFa_2_4/build/CMakeFiles/quxuesuanfa_2_4.dir
+/home/zwj/git/Algorithm_code/quXueSuanFa_2_4/build/CMakeFiles/rebuild_cache.dir
+/home/zwj/git/Algorithm_code/quXueSuanFa_2_4/build/CMakeFiles/list_install_components.dir
+/home/zwj/git/Algorithm_code/quXueSuanFa_2_4/build/CMakeFiles/install/local.dir
+/home/zwj/git/Algorithm_code/quXueSuanFa_2_4/build/CMakeFiles/install.dir
