@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/quXueSuanFa_5_6.dir/main.cpp.o  -o quXueSuanFa_5_6 

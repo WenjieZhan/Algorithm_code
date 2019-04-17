@@ -1,0 +1,4 @@
+/home/zwj/software/cmake-3.14.1-Linux-x86_64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/zwj/CLionProjects/Algorithm_code/quXueSuanFa_5_6
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zwj/CLionProjects/Algorithm_code/quXueSuanFa_5_6/cmake-build-debug
